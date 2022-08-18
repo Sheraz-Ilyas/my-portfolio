@@ -16,7 +16,7 @@
   </kbd>
 </p>
 
-### Services
+### My work
 
 <p align="center">
   <kbd>
