@@ -1,8 +1,8 @@
-## A clean, beautiful and responsive react portfolio template for Developers!
+## My portfoilio
 
 <p align="center">
   <kbd>
-<img src="https://github.com/kaustubhai/portfolio-template/blob/master/public/portfolio-example.gif?raw=true"></img>
+<img src="./1.png"></img>
   </kbd>
 </p>
 
