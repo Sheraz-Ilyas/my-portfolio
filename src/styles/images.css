@@ -1,0 +1,31 @@
+.Profile-Pic {
+	background-image: url("./images/a.JPG");
+	background-position: center;
+	background-size: cover;
+	height: 60vh;
+}
+.project1 {
+	background-image: url("./images/todo.png");
+	cursor: none;
+}
+.project2 {
+	background-image: url("./images/optimus.png");
+	cursor: none;
+}
+.project3 {
+	background-image: url("./images/Restaurant.png");
+	cursor: none;
+}
+
+.misc1 {
+	background-image: url("./images/fiver.png");
+	cursor: none;
+}
+.misc2 {
+	background-image: url("./images/github.png");
+	cursor: none;
+}
+.misc3 {
+	background-image: url("./images/dribble.png");
+	cursor: none;
+}
