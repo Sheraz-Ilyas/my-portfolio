@@ -1,4 +1,4 @@
-## A clean, beautiful and responsive react portfolio template for Developers!
+## My portfolio
 
 <p align="center">
   <kbd>
